@@ -1,0 +1,4 @@
+transaction_id,account_id,amount,transaction_date,channel,rejection_reason
+TXN004,ACC004,,2026-11-02,ATM,Missing Amount
+TXN005,ACC005,-400.0,2026-11-03,MOBILE,Negative Amount
+TXN006,ACC001,3100.25,invalid-date,ONLINE,Invalid Date
