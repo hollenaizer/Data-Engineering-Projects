@@ -1,0 +1,4 @@
+loan_id,customer_id,loan_amount,loan_type
+L001,1001,50000,Home Loan
+L002,1002,15000,Personal Loan
+L003,1004,250000,Business Loan

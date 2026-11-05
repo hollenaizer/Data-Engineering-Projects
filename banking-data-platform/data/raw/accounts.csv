@@ -1,0 +1,6 @@
+account_id,customer_id,branch_id,account_type
+ACC001,1001,B001,Savings
+ACC002,1002,B002,Cheque
+ACC003,1003,B003,Savings
+ACC004,1004,B001,Business
+ACC005,1005,B002,Cheque
