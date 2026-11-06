@@ -1,0 +1,7 @@
+transaction_id,customer_id,amount,transaction_time,location
+T001,C101,250,2026-11-01 08:15:00,Johannesburg
+T002,C102,50000,2026-11-01 09:00:00,Pretoria
+T003,C103,150,2026-11-01 10:20:00,Cape Town
+T004,C104,120000,2026-11-01 11:05:00,Durban
+T005,C101,70000,2026-11-01 11:10:00,Johannesburg
+T006,C105,95,2026-11-01 12:00:00,Polokwane
