@@ -1,0 +1,21 @@
+# Raw banking dataset - do not upload to GitHub
+data/raw/
+
+# Generated data
+data/processed/
+data/quarantine/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Environment variables and secrets
+.env
+
+# Operating system files
+.DS_Store
+Thumbs.db
